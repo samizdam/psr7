@@ -24,7 +24,8 @@
         "phpunit/phpunit": "^7.5 || 8.5 || 9.4",
         "php-http/psr7-integration-tests": "^1.0",
         "http-interop/http-factory-tests": "^0.8",
-        "symfony/error-handler": "^4.4"
+        "symfony/error-handler": "^4.4",
+        "friendsofphp/php-cs-fixer": "^2.17"
     },
     "provide": {
         "psr/http-message-implementation": "1.0",
